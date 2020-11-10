@@ -1,3 +1,3 @@
 # bit-error-repo
 
-Repository to replicate teambit/bit#3254
+Repository to replicate https://github.com/teambit/bit/issues/3254
